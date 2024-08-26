@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biangming4572398
-I am a student studying AI for undergraduate at University of Bath
+- 😄I am a student studying AI for undergraduate at University of Bath
 - 🌱 Focusing on learning and writing neural networks
 - 📫 How to reach me zhiming41314@gmail.com(personal)/ zz2393@bath.ac.uk(school)
 <!---
